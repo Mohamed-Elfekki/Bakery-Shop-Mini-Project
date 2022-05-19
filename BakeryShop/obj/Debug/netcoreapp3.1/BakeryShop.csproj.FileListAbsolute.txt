@@ -1,0 +1,168 @@
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.exe
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.deps.json
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.json
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.dev.json
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.pdb
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.Views.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.Views.pdb
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfo.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorAssemblyInfo.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorAssemblyInfo.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\staticwebassets\BakeryShop.StaticWebAssets.Manifest.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.TagHelpers.input.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.TagHelpers.output.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorCoreGenerate.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorTargetAssemblyInfo.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorTargetAssemblyInfo.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.Views.pdb
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.pdb
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.genruntimeconfig.cache
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.CopyComplete
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Order.cshtml.g.cs
+D:\VisualStudioProjects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\OrderSucess.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.exe
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.deps.json
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.json
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.dev.json
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.pdb
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.Views.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.Views.pdb
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Final Projects\BakeryShop\BakeryShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.AssemblyReference.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfoInputs.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfo.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.CoreCompileInputs.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorAssemblyInfo.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorAssemblyInfo.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\staticwebassets\BakeryShop.StaticWebAssets.Manifest.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.TagHelpers.input.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.TagHelpers.output.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorCoreGenerate.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Order.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\OrderSucess.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorTargetAssemblyInfo.cache
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.RazorTargetAssemblyInfo.cs
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.Views.pdb
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.CopyComplete
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.dll
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.pdb
+D:\Final Projects\BakeryShop\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.genruntimeconfig.cache
